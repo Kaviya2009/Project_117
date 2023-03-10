@@ -1,0 +1,33 @@
+body
+{
+    background-color: blanchedalmond;
+}
+
+h1
+{
+    background-color: cornsilk;
+    
+}
+
+#show_sketch
+{
+    float: right;
+}
+
+#score
+{
+    font-size: medium;
+    margin-left: -900px;
+}
+
+#timer
+{
+    font-size: medium;
+    float: right;
+    margin-right: 200px;
+}
+
+#draw_sketch
+{
+    color: brown;
+}
